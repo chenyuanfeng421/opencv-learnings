@@ -1,2 +1,2 @@
-# openc-learnings
+# opencv-learnings
 this is a learning book.
