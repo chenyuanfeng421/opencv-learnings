@@ -1,6 +1,5 @@
 enum ThresholdTypes 
 {
-
 	THRESH_BINARY = 0,
 	THRESH_BINARY_INV = 1,
 	THRESH_TRUNC = 2,
