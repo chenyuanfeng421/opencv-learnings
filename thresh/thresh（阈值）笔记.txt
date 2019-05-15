@@ -10,3 +10,4 @@ enum ThresholdTypes
 	THRESH_TRIANGLE = 16
 }
 函数中的types可以用常数代替
+注意图片路径和函数名称
